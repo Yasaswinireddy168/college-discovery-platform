@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "name": "IIT Hyderabad",
+    "location": "Telangana",
+    "fees": 250000,
+    "rating": 4.8,
+    "courses": ["CSE", "ECE", "EEE"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  },
+  {
+    "id": 2,
+    "name": "NIT Warangal",
+    "location": "Telangana",
+    "fees": 180000,
+    "rating": 4.7,
+    "courses": ["CSE", "Mechanical"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  },
+  {
+    "id": 3,
+    "name": "IIIT Hyderabad",
+    "location": "Telangana",
+    "fees": 300000,
+    "rating": 4.9,
+    "courses": ["CSE", "AI"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  },
+  {
+    "id": 4,
+    "name": "IIT Bombay",
+    "location": "Maharashtra",
+    "fees": 260000,
+    "rating": 4.9,
+    "courses": ["CSE", "Electrical", "Mechanical"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  },
+  {
+    "id": 5,
+    "name": "IIT Delhi",
+    "location": "Delhi",
+    "fees": 255000,
+    "rating": 4.9,
+    "courses": ["CSE", "ECE", "Civil"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  },
+  {
+    "id": 6,
+    "name": "IIT Madras",
+    "location": "Tamil Nadu",
+    "fees": 250000,
+    "rating": 4.9,
+    "courses": ["CSE", "AI", "Mechanical"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  },
+  {
+    "id": 7,
+    "name": "NIT Trichy",
+    "location": "Tamil Nadu",
+    "fees": 170000,
+    "rating": 4.8,
+    "courses": ["CSE", "ECE", "Production"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  },
+  {
+    "id": 8,
+    "name": "BITS Pilani",
+    "location": "Rajasthan",
+    "fees": 500000,
+    "rating": 4.8,
+    "courses": ["CSE", "ECE", "Chemical"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  },
+  {
+    "id": 9,
+    "name": "VIT Vellore",
+    "location": "Tamil Nadu",
+    "fees": 220000,
+    "rating": 4.5,
+    "courses": ["CSE", "IT", "ECE"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  },
+  {
+    "id": 10,
+    "name": "SRM University",
+    "location": "Tamil Nadu",
+    "fees": 200000,
+    "rating": 4.4,
+    "courses": ["CSE", "AI", "Cyber Security"],
+    "overview": "One of India's premier engineering institutes.",
+    "placements": "Average Package ₹18 LPA"
+  }
+  ,
+{
+  "id": 11,
+  "name": "IIT Kanpur",
+  "location": "Uttar Pradesh",
+  "fees": 245000,
+  "rating": 4.8,
+  "courses": ["CSE", "Electrical", "Aerospace"],
+  "placements": "Average Package ₹26 LPA",
+  "overview": "Known for research, innovation, and strong placements."
+},
+{
+  "id": 12,
+  "name": "IIT Kharagpur",
+  "location": "West Bengal",
+  "fees": 240000,
+  "rating": 4.8,
+  "courses": ["CSE", "Mechanical", "Civil"],
+  "placements": "Average Package ₹24 LPA",
+  "overview": "India's first IIT with a vast campus and diverse programs."
+},
+{
+  "id": 13,
+  "name": "IIT Roorkee",
+  "location": "Uttarakhand",
+  "fees": 235000,
+  "rating": 4.7,
+  "courses": ["CSE", "Civil", "Electrical"],
+  "placements": "Average Package ₹22 LPA",
+  "overview": "One of India's oldest engineering institutions."
+},
+{
+  "id": 14,
+  "name": "NIT Surathkal",
+  "location": "Karnataka",
+  "fees": 175000,
+  "rating": 4.7,
+  "courses": ["CSE", "IT", "Mechanical"],
+  "placements": "Average Package ₹18 LPA",
+  "overview": "Top NIT located near the Arabian Sea."
+},
+{
+  "id": 15,
+  "name": "NIT Calicut",
+  "location": "Kerala",
+  "fees": 170000,
+  "rating": 4.6,
+  "courses": ["CSE", "ECE", "Civil"],
+  "placements": "Average Package ₹16 LPA",
+  "overview": "One of the leading NITs in South India."
+},
+{
+  "id": 16,
+  "name": "IIIT Bangalore",
+  "location": "Karnataka",
+  "fees": 450000,
+  "rating": 4.8,
+  "courses": ["CSE", "AI", "Data Science"],
+  "placements": "Average Package ₹28 LPA",
+  "overview": "Specializes in Information Technology and AI."
+},
+{
+  "id": 17,
+  "name": "Manipal Institute of Technology",
+  "location": "Karnataka",
+  "fees": 350000,
+  "rating": 4.5,
+  "courses": ["CSE", "IT", "Cyber Security"],
+  "placements": "Average Package ₹12 LPA",
+  "overview": "Popular private engineering institution with global exposure."
+},
+{
+  "id": 18,
+  "name": "Amrita Vishwa Vidyapeetham",
+  "location": "Tamil Nadu",
+  "fees": 250000,
+  "rating": 4.6,
+  "courses": ["CSE", "ECE", "AI"],
+  "placements": "Average Package ₹11 LPA",
+  "overview": "Well-known private university with strong academics."
+},
+{
+  "id": 19,
+  "name": "Jadavpur University",
+  "location": "West Bengal",
+  "fees": 15000,
+  "rating": 4.8,
+  "courses": ["CSE", "Mechanical", "Civil"],
+  "placements": "Average Package ₹14 LPA",
+  "overview": "Highly reputed public university with excellent ROI."
+},
+{
+  "id": 20,
+  "name": "Delhi Technological University",
+  "location": "Delhi",
+  "fees": 190000,
+  "rating": 4.7,
+  "courses": ["CSE", "IT", "Software Engineering"],
+  "placements": "Average Package ₹20 LPA",
+  "overview": "One of the top engineering universities in Delhi."
+},
+{
+  "id": 21,
+  "name": "Aditya University",
+  "location": "Andhra Pradesh",
+  "fees": 120000,
+  "rating": 4.3,
+  "courses": ["CSE", "AI & ML", "Data Science", "ECE"],
+  "placements": "Average Package ₹6 LPA",
+  "overview": "A leading private university in Surampalem offering engineering, management and emerging technology programs."
+}
+]
