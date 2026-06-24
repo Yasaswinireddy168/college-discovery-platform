@@ -7,23 +7,45 @@ export default function PredictorPage() {
   const [result, setResult] = useState([]);
 
   const predictCollege = () => {
-    const r = Number(rank);
+  const r = Number(rank);
 
-    if (r <= 5000) {
-      setResult(["IIT Hyderabad"]);
-    } else if (r <= 10000) {
-      setResult(["NIT Warangal"]);
-    } else if (r <= 20000) {
-      setResult([
-        "Aditya University",
-        "NIT Warangal",
-      ]);
-    } else {
-      setResult([
-        "Aditya University",
-      ]);
-    }
-  };
+  if (r <= 5000) {
+    setResult([
+      "IIT Hyderabad",
+      "IIT Bombay",
+      "IIT Delhi",
+      "IIIT Hyderabad",
+    ]);
+  } else if (r <= 10000) {
+    setResult([
+      "NIT Warangal",
+      "NIT Trichy",
+      "IIIT Hyderabad",
+      "BITS Pilani",
+    ]);
+  } else if (r <= 20000) {
+    setResult([
+      "VIT Vellore",
+      "SRM University",
+      "Aditya University",
+      "Manipal Institute of Technology",
+    ]);
+  } else if (r <= 50000) {
+    setResult([
+      "Aditya University",
+      "Amrita Vishwa Vidyapeetham",
+      "NIT Calicut",
+      "Jadavpur University",
+    ]);
+  } else {
+    setResult([
+      "Aditya University",
+      "SRM University",
+      "Amrita Vishwa Vidyapeetham",
+      "Manipal Institute of Technology",
+    ]);
+  }
+};
 
   return (
     <div className="p-10 min-h-screen bg-gray-100">
