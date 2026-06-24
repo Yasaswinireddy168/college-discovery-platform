@@ -12,27 +12,26 @@ export default function Home() {
         </h1>
 
         <div className="space-x-6">
-          <Link
-            href="/"
-            className="cursor-pointer hover:text-gray-200"
-          >
-            Home
-          </Link>
+  <Link href="/" className="cursor-pointer hover:text-gray-200">
+    Home
+  </Link>
 
-          <Link
-            href="/colleges"
-            className="cursor-pointer hover:text-gray-200"
-          >
-            Colleges
-          </Link>
+  <Link href="/colleges" className="cursor-pointer hover:text-gray-200">
+    Colleges
+  </Link>
 
-          <Link
-            href="/compare"
-            className="cursor-pointer hover:text-gray-200"
-          >
-            Compare
-          </Link>
-        </div>
+  <Link href="/compare" className="cursor-pointer hover:text-gray-200">
+    Compare
+  </Link>
+
+  <Link href="/predictor" className="cursor-pointer hover:text-gray-200">
+    Predictor
+  </Link>
+
+  <Link href="/discussions" className="cursor-pointer hover:text-gray-200">
+    Discussions
+  </Link>
+</div>
       </nav>
 
       {/* Hero Section */}
